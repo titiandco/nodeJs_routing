@@ -1,3 +1,5 @@
+// http://www.frugalprototype.com/developpez-propre-api-node-js-express/
+
 //L'application requiert l'utilisation du module Express.
 //La variable express nous permettra d'utiliser les fonctionnalités du module Express.  
 var express = require('express'); 
